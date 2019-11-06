@@ -3,7 +3,7 @@ Class: Dog
 Attributes:
 name (string)
 breed (string)
-weight (integer)
+weightInPounds (integer)
 typeOfCoat (string)
 age (integer)
 houseTrained (boolean)

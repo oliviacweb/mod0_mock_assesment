@@ -1,0 +1,27 @@
+Object: Golden Retriever
+
+Attributes:
+Name: "Jack"
+age: 9
+weightInPounds: 45
+typeOfCoat: "long fur"
+houseTrained: true
+adopted: true
+yearsWithOwner: 5
+
+
+Methods:
+calculateAgeAdopted: 9 - 5 = 4
+shrinkDog: 45 - 1 = 44
+
+Object: Chihuahua
+
+Name: "Sprout"
+age: 5
+adopted: false
+typeOfCoat: "short hair"
+weightInPounds: 9
+
+Methods:
+changeName: modify Name string to return 'Charlie')
+growDog: 9 + 1 = 10
