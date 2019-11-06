@@ -1,0 +1,18 @@
+Class: Dog
+
+Attributes:
+name (string)
+breed (string)
+weight (integer)
+typeOfCoat (string)
+age (integer)
+houseTrained (boolean)
+adopted (boolean)
+yearsWithOwner (integer)
+
+Methods:
+
+changeName (modify 'name' string)
+growDog (adds 1 to weight integer)
+shrinkDog (subtracts 1 from weight integer)
+calculateAgeAdopted (substract YearsWithOwner from Age)
