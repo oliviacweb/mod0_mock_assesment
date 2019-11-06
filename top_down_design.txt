@@ -1,0 +1,31 @@
+1. Do Laundry
+1.1 Bring Dirty clothes to washing machine
+1.1.1 Pick up laundry basket
+1.1.2 Walk to laundry room holding basket
+1.1.3 Open washing machine door
+1.1.4 Pick clothes up out of basket
+1.1.5 Put dirty clothes into washing machine
+1.2 Start Wash Cycle
+1.2.1 Pick up laundry detergent off shelf
+1.2.2 Take lid off bottle of detergent
+1.2.3 Poor liquid detergent into cap until fill line
+1.2.4 Poor liquid from cap onto Clothes
+1.2.5 Shut washing machine door
+1.2.6 Put cap back on detergent
+1.2.7 Move dial to preferred wash cycle type
+1.2.8 Press start
+1.3 Start Dry Cycle
+1.3.1 Open Washer door
+1.3.2 Open dryer door
+1.3.3 Remove clothes from Washer
+1.3.4 Put wet clothes in dryer
+1.3.5 shut dryer door
+1.3.6 move dryer dial to preffered dry Cycle
+1.3.7 Press start
+1.4 Put Clothes Away
+1.4.1 Remove clothes from dryer
+1.4.2 Put clothes in basket
+1.4.3 Carry Basket Up stairs
+1.4.4 Pour clothes onto bed
+1.4.5 Fold clothes
+1.4.6 Put clothes into designated drawers
